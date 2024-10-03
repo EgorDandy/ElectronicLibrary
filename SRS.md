@@ -72,35 +72,31 @@
 ## 2.2 Интерфейс пользователя
 Окно загрузки приложения.  
 
-![Окно загрузки приложения]()  
+![Окно загрузки приложения](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Loading.PNG)  
 
 Окно регистрации нового пользователя.  
 
-![Окно регистрации нового пользователя]()
+![Окно регистрации нового пользователя](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Registration.PNG)
 
 Окно входа для зарегистрированного пользователя.  
 
-![Окно входа для зарегистрированного пользователя]()
+![Окно входа для зарегистрированного пользователя](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Sign.PNG)
 
-Главное окно приложения.
+Окно моя библиотека. 
 
-![Главное окно приложения]()
-
-Окно создания нового объявления. 
-
-![Окно создания нового объявления]() 
+![Моя библиотека](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/MyLibrary.PNG)
 
 Окно избранное. 
 
-![Окно избранное]()
-
-Окно прочее. 
-
-![Окно прочее]() 
+![Окно избранное](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Favorites.PNG)
 
 Окно мой аккаунт. 
 
-![Окно мой аккаунт]()
+![Окно мой аккаунт](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Account.PNG)
+
+Окно поиск. 
+
+![Поиск](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Search.PNG)
 
 <a name="user_specifications"></a>
 ### **2.3 Характеристики пользователей:**
