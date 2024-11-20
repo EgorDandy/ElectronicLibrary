@@ -1,6 +1,6 @@
 # Диаграмма классов  
 
-![Диаграмма классов](https://github.com/EgorDandy/ElectronicLibrary/tree/master/image/ClassDiagram.PNG) 
+![Диаграмма классов](https://github.com/EgorDandy/ElectronicLibrary/blob/master/image/ClassDiagram.PNG) 
 
 # Глоссарий
 
