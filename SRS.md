@@ -98,6 +98,10 @@
 
 ![Поиск](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Search.PNG)
 
+Окно меню
+
+![Меню](https://github.com/EgorDandy/ElectronicLibrary/blob/master/mockups/Menu.PNG)
+
 <a name="user_specifications"></a>
 ### **2.3 Характеристики пользователей:**
 
